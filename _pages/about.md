@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have a multidisciplinary research background with hands-on experience in veterinary medicine, aquaculture, and nutrigenomics. I finished my undergraduate school at Zagazig University, Egypt, followed by postgraduate studies in University of Aberdeen, UK and the University of California, San Diego, USA before joining INRAE.
-
-Tawfik is currently a Postdoc at INRAE, where she works on the HOLOFISH project, which focuses on evaluating plant-based diets as sustainable alternatives for Rainbow Trout, a key aquaculture species. She primarily uses integrative multi-omics approaches to investigate the holobiont and the gut–microbiota axis.
+I have a multidisciplinary research background with hands-on experience in veterinary medicine, aquaculture, and nutrigenomics. I finished my undergraduate school at Zagazig University, Egypt, followed by postgraduate studies in University of Aberdeen, UK and the University of California, San Diego, USA before joining INRAE with the focus on evaluating plant-based diets as sustainable alternatives for Rainbow Trout, a key aquaculture species. She primarily used omics approaches to investigate the holobiont and the gut–microbiota axis.
 
 Tawfik was a Moore Foundation-funded Visiting Researcher at [Dorrestein Lab, University of California, San Diego](https://dorresteinlab.ucsd.edu/) working in collaboration with [Bolnick Lab, University of Connecticut](https://today.uconn.edu/experts/expert-profile/daniel.bolnickphd/daniel-bolnick-phd/) on several big -omics datasets to answer different immunological adaptation questions using approaches that include mainly RNAseq, 16S rRNA marker gene sequencing and untargeted metabolomics.  
 
